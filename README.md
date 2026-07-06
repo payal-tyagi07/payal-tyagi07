@@ -44,7 +44,7 @@ https://img.shields.io/badge/Render-%2546E3B7.svg?style=for-the-badge&logo=rende
 Domain	Proficiency	Details
 Backend Development	⭐⭐⭐⭐	Node.js, Express.js, REST APIs, MVC Architecture
 Database Management	⭐⭐⭐⭐	MongoDB, JSON Storage, CRUD Operations
-Frontend Development	⭐⭐⭐	HTML, CSS, JavaScript, Responsive UI
+Frontend Development	⭐⭐⭐⭐	HTML, CSS, JavaScript, Responsive UI
 Programming	⭐⭐⭐⭐	C++, JavaScript, C, Python
 Version Control	⭐⭐⭐⭐	Git, GitHub, Branching, Collaboration
 Problem Solving	⭐⭐⭐⭐	Data Structures & Algorithms, Competitive Programming
@@ -112,14 +112,6 @@ Backend Developer	Built multiple full‑stack and backend projects using Node.js
 Open Source	Actively maintaining projects on GitHub and continuously learning.
 Continuous Learner	Focused on Backend Development, System Design, and DSA.
 </p>
-📜 Certifications
-NPTEL
-https://img.shields.io/badge/NPTEL_C++-0073e6?style=for-the-badge&logo=googlescholar&logoColor=white
-https://img.shields.io/badge/NPTEL_DSA-0073e6?style=for-the-badge&logo=googlescholar&logoColor=white
-
-Coursera / Udemy
-https://img.shields.io/badge/React_Course-764ABC?style=for-the-badge&logo=react&logoColor=white
-https://img.shields.io/badge/Node.js_Course-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
 
 📊 GitHub Analytics
 <p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=payal-tyagi07&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF" /> </a> <a href="https://github.com/denvercoder1/github-readme-streak-stats"> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=payal-tyagi07&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=FFFFFF" /> </a> </p><p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payal-tyagi07&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" /> </a> </p>
