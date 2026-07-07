@@ -205,16 +205,6 @@ My personal portfolio website showcasing my projects, skills, achievements, and 
 
 ---
 
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=payal-tyagi07&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
-  </a>
-</p>
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
@@ -259,3 +249,8 @@ Open To:
   - Collaborating on interesting full‑stack projects
   - Mentoring and helping others in their DSA journey
   - Internship and entry‑level software engineering opportunities
+
+
+🤝 Connect with Me
+<p align="center"> <a href="mailto:payaltyagi727@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/payal-tyagi-ab18a8314"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/payal-tyagi07"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://your-portfolio-url.com"> <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
+<p align="center"> <i>"Building scalable solutions and solving problems, one commit at a time."</i> </p><p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:8B5CF6&height=100&section=footer" alt="Footer" width="100%"/> </p> ```
