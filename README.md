@@ -19,7 +19,7 @@ I'm a passionate Full-Stack Developer and DSA enthusiast, currently pursuing my 
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=C%2B%2B+Enthusiast;DSA+Problem+Solver;Full-Stack+Web+Developer;Building+the+Future" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=DSA+Problem+Solver;Full-Stack+Web+Developer;Building+the+Future" alt="Typing SVG" />
   </a>
 </p>
 
@@ -183,18 +183,6 @@ My personal portfolio website showcasing my projects, skills, achievements, and 
 | **Continuous Learner** | Focused on Backend Development, System Design, and DSA. |
 
 </p>
-
----
-
-## 📜 Certifications
-
-### NPTEL
-![NPTEL – Programming in C++](https://img.shields.io/badge/NPTEL_C++-0073e6?style=for-the-badge&logo=googlescholar&logoColor=white)
-![NPTEL – Data Structures](https://img.shields.io/badge/NPTEL_DSA-0073e6?style=for-the-badge&logo=googlescholar&logoColor=white)
-
-### Coursera / Udemy
-![React Course](https://img.shields.io/badge/React_Course-764ABC?style=for-the-badge&logo=react&logoColor=white)
-![Node.js Course](https://img.shields.io/badge/Node.js_Course-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
