@@ -229,9 +229,9 @@ My personal portfolio website showcasing my projects, skills, achievements, and 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/payal-tyagi07/payal-tyagi07/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/payal-tyagi07/payal-tyagi07/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/payal-tyagi07/payal-tyagi07/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/payal-tyagi07/payal-tyagi07/main/.github/assets/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/payal-tyagi07/payal-tyagi07/main/.github/assets/snake.svg" />
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/payal-tyagi07/payal-tyagi07/main/.github/assets/snake.svg" />
   </picture>
 </p>
 
