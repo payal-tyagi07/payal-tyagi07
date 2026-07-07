@@ -186,7 +186,7 @@ My personal portfolio website showcasing my projects, skills, achievements, and 
 
 ---
 
-## 📊 GitHub Analytics – Stats
+## 📊 GitHub Analytics – Streak
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -199,7 +199,7 @@ My personal portfolio website showcasing my projects, skills, achievements, and 
 
 ---
 
-## 📊 GitHub Analytics – Streak
+## 📊 GitHub Analytics – Stats
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
