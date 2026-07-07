@@ -24,12 +24,16 @@ I'm a passionate Full-Stack Developer and DSA enthusiast, currently pursuing my 
 </p>
 
 <p align="center">
-  <a href="https://github.com/payal-tyagi07"><img src="https://img.shields.io/badge/Education-B.Tech_Computer_Science-7C3AED?style=flat-square&logo=github&logoColor=white" alt="Education Badge" /></a>
-  <a href="https://github.com/payal-tyagi07"><img src="https://img.shields.io/badge/Location-India-7C3AED?style=flat-square&logo=google-maps&logoColor=white" alt="Location Badge" /></a>
-  <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-Your_Website-7C3AED?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio Badge" /></a>
-  <a href="https://linkedin.com/in/payal-tyagi-ab18a8314"><img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
-  <a href="mailto:payaltyagi727@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge" /></a>
-  <a href="https://github.com/payal-tyagi07"><img src="https://img.shields.io/badge/GitHub-Follow-7C3AED?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;DSA+Enthusiast;Building+the+Future+🚀" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/payal-tyagi07"><img src="https://img.shields.io/badge/Education-B.Tech_Computer_Science-8B5CF6?style=flat-square&logo=github&logoColor=white" alt="Education Badge" /></a>
+  <a href="https://github.com/payal-tyagi07"><img src="https://img.shields.io/badge/Location-India-8B5CF6?style=flat-square&logo=google-maps&logoColor=white" alt="Location Badge" /></a>
+  <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-Your_Website-8B5CF6?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio Badge" /></a>
+  <a href="https://linkedin.com/in/payal-tyagi-ab18a8314"><img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
+  <a href="mailto:payaltyagi727@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-8B5CF6?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge" /></a>
+  <a href="https://github.com/payal-tyagi07"><img src="https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge" /></a>
 </p>
 
 <p align="center">
