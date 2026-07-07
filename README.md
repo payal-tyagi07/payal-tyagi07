@@ -190,16 +190,16 @@ My personal portfolio website showcasing my projects, skills, achievements, and 
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=payal-tyagi07&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF" />
+    <img height="180em" src="https://github-readme-stats.shion.dev/api?username=payal-tyagi07&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=payal-tyagi07&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=FFFFFF" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=payal-tyagi07&theme=highcontrast&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=FFFFFF" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payal-tyagi07&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=payal-tyagi07&layout=compact&theme=highcontrast&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" alt="Top Languages" />
   </a>
 </p>
 
@@ -250,7 +250,3 @@ Open To:
   - Mentoring and helping others in their DSA journey
   - Internship and entry‑level software engineering opportunities
 
-
-🤝 Connect with Me
-<p align="center"> <a href="mailto:payaltyagi727@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/payal-tyagi-ab18a8314"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/payal-tyagi07"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://your-portfolio-url.com"> <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
-<p align="center"> <i>"Building scalable solutions and solving problems, one commit at a time."</i> </p><p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:8B5CF6&height=100&section=footer" alt="Footer" width="100%"/> </p> ```
