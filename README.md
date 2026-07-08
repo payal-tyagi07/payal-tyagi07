@@ -199,16 +199,6 @@ My personal portfolio website showcasing my projects, skills, achievements, and 
 
 ---
 
-## 📊 GitHub Analytics – Stats
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=payal-tyagi07&layout=compact&theme=highcontrast&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" alt="Top Languages" />
-  </a>
-</p>
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
