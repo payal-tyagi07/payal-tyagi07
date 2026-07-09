@@ -144,7 +144,9 @@ My personal portfolio website showcasing my projects, skills, achievements, and 
 ## 📊 GitHub Analytics – Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=payal-tyagi07&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF" alt="GitHub Stats" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=payal-tyagi07&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF" alt="GitHub Stats" />
+  </a>
 </p>
 
 ---
@@ -152,7 +154,9 @@ My personal portfolio website showcasing my projects, skills, achievements, and 
 ## 📊 GitHub Analytics – Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=payal-tyagi07&theme=highcontrast&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=FFFFFF" alt="GitHub Streak" />
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=payal-tyagi07&theme=highcontrast&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=FFFFFF" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
@@ -160,15 +164,9 @@ My personal portfolio website showcasing my projects, skills, achievements, and 
 ## 📊 GitHub Analytics – Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payal-tyagi07&layout=compact&theme=highcontrast&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" alt="Top Languages" />
-</p>
-
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=payal-tyagi07&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payal-tyagi07&layout=compact&theme=highcontrast&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" alt="Top Languages" />
+  </a>
 </p>
 
 ---
@@ -176,7 +174,9 @@ My personal portfolio website showcasing my projects, skills, achievements, and 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=payal-tyagi07&theme=high-contrast&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=payal-tyagi07&theme=high-contrast&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  </a>
 </p>
 
 ---
