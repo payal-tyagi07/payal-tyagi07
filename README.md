@@ -18,7 +18,7 @@ I'm a passionate Full-Stack Developer and DSA enthusiast, currently pursuing my 
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=C%2B%2B+Enthusiast;DSA+Problem+Solver;Full-Stack+Web+Developer;Building+the+Future" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=DSA+Problem+Solver;Full-Stack+Web+Developer;Building+the+Future" alt="Typing SVG" />
   </a>
 </p>
 
@@ -140,25 +140,6 @@ An interactive tool that brings data structures and algorithms to life through s
 **Professional Explanation:**  
 My personal portfolio website showcasing my projects, skills, achievements, and contact information. Designed with a modern and responsive layout using custom CSS and smooth animations. It serves as a central hub for recruiters and collaborators to learn more about me and my work.
 </details>
-
----
-
-## 📊 GitHub Streak
-
-<p align="center">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=payal-tyagi07&theme=highcontrast&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=FFFFFF" alt="GitHub Streak" />
-  </a>
-</p>
-
-## 📊 GitHub Analytics – Top Languages
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payal-tyagi07&layout=compact&theme=highcontrast&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" alt="Top Languages" />
-  </a>
-</p>
-
 
 ---
 
