@@ -143,25 +143,13 @@ My personal portfolio website showcasing my projects, skills, achievements, and 
 
 ---
 
-## 📊 GitHub Analytics – Stats
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=payal-tyagi07&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF" alt="GitHub Stats" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Analytics – Streak
+## 📊 GitHub Streak
 
 <p align="center">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
     <img src="https://streak-stats.demolab.com/?user=payal-tyagi07&theme=highcontrast&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=FFFFFF" alt="GitHub Streak" />
   </a>
 </p>
-
----
 
 ## 📊 GitHub Analytics – Top Languages
 
