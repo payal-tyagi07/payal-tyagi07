@@ -141,12 +141,64 @@ My personal portfolio website showcasing my projects, skills, achievements, and 
 
 ---
 
+## 💼 Experience & Contributions
+
+### IEEE Computer Society Volunteer | Jaypee Institute of Information Technology
+*2023 – Present*
+- **Scope:** Mentoring and organising technical events for students.
+- **Key Achievements:**
+  - Mentored 80+ first‑year students during TechBlocks 11.1, guiding them through coding fundamentals.
+  - Conducted sessions on JavaScript and Asynchronous Programming.
+  - Assisted in organising technical workshops and coding events.
+  - Collaborated with peers on community‑driven technical initiatives.
+- **Tech Stack:** `JavaScript`, `Git`, `GitHub`
+
+---
+
+### Backend Development Projects | Self‑Directed Learning
+*2024 – Present*
+- **Scope:** Building backend applications to master modern development practices.
+- **Key Achievements:**
+  - Developed REST APIs using Express.js with proper error handling and middleware.
+  - Implemented CRUD operations and JSON‑based data persistence.
+  - Designed modular project structures following MVC architecture.
+  - Practiced API testing and debugging using Postman.
+- **Tech Stack:** `Node.js`, `Express.js`, `JavaScript`
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+
+| Recognition | Details |
+| :--- | :--- |
+| **DSA Enthusiast** | Solved 500+ coding problems across various platforms. |
+| **IEEE Volunteer** | Mentored 80+ first‑year students during TechBlocks 11.1. |
+| **Backend Developer** | Built multiple full‑stack and backend projects using Node.js and Express.js. |
+| **Open Source** | Actively maintaining projects on GitHub and continuously learning. |
+| **Continuous Learner** | Focused on Backend Development, System Design, and DSA. |
+
+</p>
+
+---
+
+## 📜 Certifications
+
+### NPTEL
+![NPTEL – Programming in C++](https://img.shields.io/badge/NPTEL_C++-0073e6?style=for-the-badge&logo=googlescholar&logoColor=white)
+![NPTEL – Data Structures](https://img.shields.io/badge/NPTEL_DSA-0073e6?style=for-the-badge&logo=googlescholar&logoColor=white)
+
+### Coursera / Udemy
+![React Course](https://img.shields.io/badge/React_Course-764ABC?style=for-the-badge&logo=react&logoColor=white)
+![Node.js Course](https://img.shields.io/badge/Node.js_Course-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+---
+
 ## 📊 GitHub Analytics – Stats
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=payal-tyagi07&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF" alt="GitHub Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=payal-tyagi07&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF" alt="GitHub Stats" />
 </p>
 
 ---
@@ -154,9 +206,7 @@ My personal portfolio website showcasing my projects, skills, achievements, and 
 ## 📊 GitHub Analytics – Streak
 
 <p align="center">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=payal-tyagi07&theme=highcontrast&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=FFFFFF" alt="GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=payal-tyagi07&theme=highcontrast&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=FFFFFF" alt="GitHub Streak" />
 </p>
 
 ---
@@ -164,9 +214,15 @@ My personal portfolio website showcasing my projects, skills, achievements, and 
 ## 📊 GitHub Analytics – Top Languages
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payal-tyagi07&layout=compact&theme=highcontrast&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payal-tyagi07&layout=compact&theme=highcontrast&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" alt="Top Languages" />
+</p>
+
+---
+
+## 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=payal-tyagi07&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -174,9 +230,7 @@ My personal portfolio website showcasing my projects, skills, achievements, and 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=payal-tyagi07&theme=high-contrast&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=payal-tyagi07&theme=high-contrast&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
