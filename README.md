@@ -130,7 +130,7 @@ An interactive tool that brings data structures and algorithms to life through s
 
 | **Stack** | **Scale** | **Performance** | **Security** | **Impact** | **Repository** |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| HTML, CSS, JavaScript | Single page | Optimised assets | None required | Showcases my work and skills | [GitHub](https://github.com/payal-tyagi07/portfolio) |
+| HTML, CSS, JavaScript | Single page | Optimised assets | None required | Showcases my work and skills | [GitHub](https://github.com/payal-tyagi07/Portfolio) |
 
 **Professional Explanation:**  
 My personal portfolio website showcasing my projects, skills, achievements, and contact information. Designed with a modern and responsive layout using custom CSS and smooth animations. It serves as a central hub for recruiters and collaborators to learn more about me and my work.
