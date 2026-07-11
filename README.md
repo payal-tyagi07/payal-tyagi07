@@ -22,19 +22,17 @@ I'm a passionate Full-Stack Developer and DSA enthusiast, currently pursuing my 
   </a>
 </p>
 
+---
+
 <p align="center">
-  <!-- Education & Location -->
-  <a href="https://github.com/payal-tyagi07"><img src="https://img.shields.io/badge/Education-B.Tech_CSE-7C3AED?style=flat-square&logo=github&logoColor=white" alt="Education" /></a>
-  <a href="https://github.com/payal-tyagi07"><img src="https://img.shields.io/badge/Location-India-4F46E5?style=flat-square&logo=google-maps&logoColor=white" alt="Location" /></a>
-  
-  <!-- Social & Professional -->
-  <a href="https://linkedin.com/in/payal-tyagi-ab18a8314"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/payal-tyagi07"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  
-  <!-- Contact -->
-  <a href="mailto:payaltyagi727@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/payal-tyagi07"><img src="https://img.shields.io/badge/📍_Location-India-6D28D9?style=flat-square&logo=google-maps&logoColor=white" alt="Location" /></a>
+  <a href="https://linkedin.com/in/payal-tyagi-ab18a8314"><img src="https://img.shields.io/badge/🔗_LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/payal-tyagi07"><img src="https://img.shields.io/badge/🐙_GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:payaltyagi727@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=payal-tyagi07&color=8B5CF6&style=flat-square" alt="Profile Views" />
