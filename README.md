@@ -118,7 +118,7 @@ MockPilot is an AI-driven platform that simulates technical and HR interviews. I
 
 | **Stack** | **Scale** | **Performance** | **Security** | **Impact** | **Repository** |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| HTML, CSS, JavaScript | Personal project | Lightweight, fast rendering | N/A | Makes DSA concepts easier to grasp | [GitHub](https://github.com/payal-tyagi07/dsa-visualizer) |
+| HTML, CSS, JavaScript | Personal project | Lightweight, fast rendering | N/A | Makes DSA concepts easier to grasp | [GitHub](https://github.com/payal-tyagi07/DSA-VISUALIZER-FRONTEND) |
 
 **Professional Explanation:**  
 An interactive tool that brings data structures and algorithms to life through step‑by‑step animations. Users can control the execution speed, pause, and replay to understand each operation clearly. This project showcases my frontend skills and my passion for teaching complex topics in an accessible way.
