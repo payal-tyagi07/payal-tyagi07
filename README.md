@@ -138,6 +138,32 @@ My personal portfolio website showcasing my projects, skills, achievements, and 
 
 ---
 
+## 📊 GitHub Streak
+
+<p align="center">
+  <table border="0" cellpadding="12">
+    <tr>
+      <td align="center" style="padding: 20px; background: #0D1117; border-radius: 8px;">
+        <b style="color: #8B5CF6; font-size: 1.2em;">🔥 Total Contributions</b><br>
+        <span style="color: #FFFFFF; font-size: 2.5em; font-weight: bold;">378</span>
+      </td>
+      <td align="center" style="padding: 20px; background: #0D1117; border-radius: 8px;">
+        <b style="color: #8B5CF6; font-size: 1.2em;">⚡ Current Streak</b><br>
+        <span style="color: #FFFFFF; font-size: 2.5em; font-weight: bold;">0</span>
+      </td>
+      <td align="center" style="padding: 20px; background: #0D1117; border-radius: 8px;">
+        <b style="color: #8B5CF6; font-size: 1.2em;">🏆 Longest Streak</b><br>
+        <span style="color: #FFFFFF; font-size: 2.5em; font-weight: bold;">26</span>
+      </td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  <i style="color: #8B5CF6;">📅 24 Sep 2024 - Present &nbsp;|&nbsp; 🔥 29 May - 23 Jun</i>
+</p>
+---
+
 ## 📈 Contribution Activity
 
 <p align="center">
