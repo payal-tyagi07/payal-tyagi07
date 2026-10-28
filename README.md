@@ -51,7 +51,6 @@ I am a **Full-Stack Developer** and a **Data Structures & Algorithms** enthusias
 ---
 
 ## 🧠 Tech Stack
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,react,nodejs,express,mongodb,mysql,flask,git,github,vercel" />
